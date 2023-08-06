@@ -96,7 +96,7 @@ footer {
         </div>
     </section>
     <section class="features">
-        <h2>Our Features</h2>
+        <h2>Our works</h2>
         <div class="feature">
             <i class="icon">Icon 1</i>
             <h3>Custom Website Development</h3>
