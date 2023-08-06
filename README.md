@@ -98,19 +98,19 @@ footer {
     <section class="features">
         <h2>Our works</h2>
         <div class="feature">
-            <i class="icon">Icon 1</i>
-            <h3>Custom Website Development</h3>
-            <p>We understand the importance of your budget in any project. That's why we offer flexible website development services that cater to your specific budget. Whether you're starting a small business or aiming for a large-scale project, we provide cost-effective solutions that guarantee the best value for your investment.</p>
+            <i class="icon">Custom Website Development</i>
+            <h3>We understand the importance of your budget in any project</h3>
+            <p>That's why we offer flexible website development services that cater to your specific budget. Whether you're starting a small business or aiming for a large-scale project, we provide cost-effective solutions that guarantee the best value for your investment.</p>
         </div>
         <div class="feature">
-            <i class="icon">Icon 2</i>
-            <h3>Responsive Website for All Devices</h3>
-            <p>We guarantee that your website will function flawlessly on all devices, regardless of their size or type. Using cutting-edge responsive design techniques, your website will be user-friendly and visually appealing on computers, tablets, and smartphones. This seamless user experience will lead to increased engagement and interaction with your content.</p>
+            <i class="icon">Responsive Website for All Devices</i>
+            <h3>We guarantee that your website</h3>
+            <p>will function flawlessly on all devices, regardless of their size or type. Using cutting-edge responsive design techniques, your website will be user-friendly and visually appealing on computers, tablets, and smartphones. This seamless user experience will lead to increased engagement and interaction with your content.</p>
         </div>
         <div class="feature">
-            <i class="icon">Icon 2</i>
-            <h3>Money-Back Guarantee</h3>
-            <p>We have confidence in the quality of our services and our ability to deliver complete customer satisfaction. As a testament to this commitment, we offer a money-back guarantee if we fail to meet your expectations or deliver the desired results. We are dedicated to providing the best and working towards realizing your vision. If you're not fully satisfied with any aspect of our services, we'll refund your money without any complications or conditions.</p>
+            <i class="icon">Money-Back Guarantee</i>
+            <h3>We have confidence in the quality of our services and our ability to deliver complete customer satisfaction</h3>
+            <p>As a testament to this commitment, we offer a money-back guarantee if we fail to meet your expectations or deliver the desired results. We are dedicated to providing the best and working towards realizing your vision. If you're not fully satisfied with any aspect of our services, we'll refund your money without any complications or conditions.</p>
         </div>
         <!-- Add more features here -->
     </section>
