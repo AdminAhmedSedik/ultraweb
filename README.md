@@ -92,7 +92,7 @@ footer {
         <div class="hero-content">
             <h2>Mohammed | Web developer </h2>
             <p>Meet Mohamed: a web programming wizard with 5 years of experience, crafting seamless online experiences one code at a time. 🌐💻 #WebDeveloper</p>
-            <a href="ml/my-website.html" class="btn">Explore Now</a>
+            <a href="ml/ml/my-website.html" class="btn">Explore Now</a>
         </div>
     </section>
     <section class="features">
